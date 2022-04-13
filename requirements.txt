@@ -1,0 +1,8 @@
+Flask
+beautifulsoup4
+python-dateutil
+pytz
+requests
+urllib3
+Werkzeug
+lxml

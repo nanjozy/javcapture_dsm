@@ -1,0 +1,15 @@
+{
+	"id": "com.zanjo.javdb",
+	"description": "",
+	"version": "1.0",
+	"site": "http://www.douban.com/",
+	"entry_file": "loader.sh",
+	"type": ["movie"],
+	"language": ["jpn"],
+	"test_example": {
+		"movie": {
+			"title": "AKI-012",
+			"original_available": "2018-07-05"
+		}
+	}
+}
